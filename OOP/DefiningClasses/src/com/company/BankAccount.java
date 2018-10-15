@@ -1,3 +1,5 @@
+package com.company;
+
 public class BankAccount {
 private int id;
 private double balance;
@@ -39,6 +41,6 @@ private double balance;
 @Override
     public String toString()
 {
-    return  "ID" + this.id;
+    return  String.format("Account ID%s, balance %.2f",this.getId(), this.getBalance());
 }
 }
