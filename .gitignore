@@ -4,17 +4,4 @@
 
 
 !*/src/*.java
-!*/*.md
-*.class
-*.log
-*.ctxt
-.mtj.tmp/
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-hs_err_pid*
-java-alpha.iml
-.idea
+
